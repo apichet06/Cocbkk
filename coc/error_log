@@ -1,0 +1,80 @@
+[29-May-2020 08:39:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp951329/public_html/samregis.com/coc/connectdb.php on line 20
+[29-May-2020 19:01:41 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/card.php on line 89
+[30-May-2020 00:44:57 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/card.php on line 89
+[30-May-2020 09:02:50 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/card.php on line 89
+[30-May-2020 09:10:19 Asia/Bangkok] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/card.php on line 89
+[30-May-2020 09:11:18 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6
+[30-May-2020 09:11:35 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6
+[30-May-2020 09:16:09 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6
+[30-May-2020 09:18:27 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6
+[30-May-2020 09:18:29 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6
+[30-May-2020 09:18:29 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6
+[30-May-2020 09:18:29 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6
+[30-May-2020 09:18:29 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6
+[30-May-2020 09:18:30 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6
+[30-May-2020 09:20:46 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6
+[30-May-2020 09:47:50 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6
+[30-May-2020 13:07:59 Asia/Bangkok] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/manage_barcode.php on line 39
+[30-May-2020 13:08:05 Asia/Bangkok] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/manage_barcode.php on line 39
+[30-May-2020 13:08:18 Asia/Bangkok] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/manage_barcode.php on line 39
+[30-May-2020 13:19:07 Asia/Bangkok] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/manage_barcode.php on line 39
+[30-May-2020 14:29:10 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6
+[30-May-2020 11:13:19 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 11:13:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 11:13:26 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 11:13:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 11:14:25 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 11:14:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:14:04 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:14:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:14:21 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:14:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:14:23 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:14:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:14:35 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:14:35 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:22:02 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:22:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:22:18 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:22:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:22:20 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:22:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:22:57 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:22:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:24:54 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:24:54 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:25:01 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:25:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:25:03 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:25:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:41:28 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 12:41:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 19:43:09 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6
+[30-May-2020 19:43:26 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6
+[30-May-2020 13:09:49 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:09:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:13:05 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:13:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:47:15 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:47:15 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:52:36 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:52:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:52:38 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:52:38 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:52:40 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:52:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:52:44 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:52:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:52:53 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:52:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:53:17 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:53:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:54:58 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:54:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:57:35 UTC] PHP Warning:  require_once(conn.php): failed to open stream: No such file or directory in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[30-May-2020 13:57:35 UTC] PHP Fatal error:  require_once(): Failed opening required 'conn.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cp951329/public_html/samregis.com/coc/index.php on line 1
+[02-Jun-2020 08:01:45 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/cp951329/public_html/samregis.com/coc/manage_barcode.php on line 105
+[02-Jun-2020 08:01:47 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/cp951329/public_html/samregis.com/coc/manage_barcode.php on line 105
+[02-Jun-2020 08:01:57 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/cp951329/public_html/samregis.com/coc/manage_barcode.php on line 105
+[02-Jun-2020 22:19:17 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6
+[02-Jun-2020 22:22:43 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cp951329/public_html/samregis.com/coc/select_update_card.php on line 6

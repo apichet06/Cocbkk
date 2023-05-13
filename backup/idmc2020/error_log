@@ -1,0 +1,43 @@
+[23-Jan-2020 16:20:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'cp951329_idmc'@'localhost' to database 'cp951329_idmc' in /home/cp951329/public_html/samregis.com/config.php on line 28
+[23-Jan-2020 16:20:59 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/cp951329/public_html/samregis.com/config.php on line 30
+[23-Jan-2020 16:57:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'cp951329_idmc'@'localhost' to database 'cp951329_idmc' in /home/cp951329/public_html/samregis.com/config.php on line 28
+[23-Jan-2020 16:57:53 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/cp951329/public_html/samregis.com/config.php on line 30
+[23-Jan-2020 16:59:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'cp951329_idmc'@'localhost' to database 'cp951329_idmc' in /home/cp951329/public_html/samregis.com/config.php on line 28
+[23-Jan-2020 16:59:03 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/cp951329/public_html/samregis.com/config.php on line 30
+[23-Jan-2020 16:59:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'cp951329_idmc'@'localhost' to database 'cp951329_idmc' in /home/cp951329/public_html/samregis.com/config.php on line 28
+[23-Jan-2020 16:59:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/cp951329/public_html/samregis.com/config.php on line 30
+[23-Jan-2020 17:00:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'cp951329_idmc'@'localhost' to database 'cp951329_idmc' in /home/cp951329/public_html/samregis.com/config.php on line 28
+[23-Jan-2020 17:00:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/cp951329/public_html/samregis.com/config.php on line 30
+[23-Jan-2020 17:01:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'cp951329_idmc'@'localhost' to database 'cp951329_idmc' in /home/cp951329/public_html/samregis.com/config.php on line 28
+[23-Jan-2020 17:01:00 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/cp951329/public_html/samregis.com/config.php on line 30
+[24-Jan-2020 00:01:26 Asia/Bangkok] PHP Notice:  Undefined index: lang in /home/cp951329/public_html/samregis.com/index.php on line 4
+[24-Jan-2020 00:01:26 Asia/Bangkok] PHP Notice:  Undefined index: lang in /home/cp951329/public_html/samregis.com/index.php on line 6
+[24-Jan-2020 00:01:26 Asia/Bangkok] PHP Notice:  Undefined variable: ReferId in /home/cp951329/public_html/samregis.com/index.php on line 143
+[24-Jan-2020 00:10:36 Asia/Bangkok] PHP Fatal error:  Class 'PHPMailer\PHPMailer\Exception' not found in /home/cp951329/public_html/samregis.com/PHPMailer/src/PHPMailer.php on line 1433
+[24-Jan-2020 14:08:50 Asia/Bangkok] PHP Fatal error:  Class 'PHPMailer\PHPMailer\Exception' not found in /home/cp951329/public_html/samregis.com/idmc2020/PHPMailer/src/PHPMailer.php on line 3408
+[20-Feb-2020 16:42:03 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 09:55:39 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 09:56:00 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 09:57:15 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 09:57:20 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 09:57:39 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 09:57:41 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 10:03:43 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 10:03:48 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 10:05:33 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 10:06:03 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 10:07:53 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 10:10:30 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 10:28:39 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 10:31:11 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 10:32:29 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 10:34:22 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 31
+[21-Feb-2020 10:36:14 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 36
+[21-Feb-2020 10:38:00 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 36
+[21-Feb-2020 10:43:24 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 35
+[21-Feb-2020 10:44:13 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 35
+[21-Feb-2020 10:44:42 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 35
+[21-Feb-2020 10:47:40 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 36
+[21-Feb-2020 10:49:01 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 36
+[21-Feb-2020 10:50:04 Asia/Bangkok] PHP Strict Standards:  Only variables should be passed by reference in /home/cp951329/public_html/samregis.com/idmc2020/exportdb.php on line 36
+[28-Feb-2020 21:16:05 Asia/Bangkok] PHP Fatal error:  Class 'PHPMailer\PHPMailer\Exception' not found in /home/cp951329/public_html/samregis.com/idmc2020/PHPMailer/src/PHPMailer.php on line 1798
